@@ -3830,7 +3830,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP"
-msgid "This creature is trying to escape\nGet'em!"
+msgid "This creature is trying to escape combat\nGet'em!"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME

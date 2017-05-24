@@ -7110,8 +7110,8 @@ msgstr "Декор"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
-msgid "Decor\n----------\nDuplicants become stressed in areas with decor lower than their expectations"
-msgstr "Декор\n----------\nДупликанты будет получать стресс находясь в месиах, имеющих значение декора ниже чем их ожиданий"
+msgid "Decor\n----------\nDuplicants become stressed in areas with decor lower than their expectations\nOpen the Decor Overlay <color=#F44A47>[F8]</color> to view current decor values"
+msgstr "Декор\n----------\nДупликанты будет получать стресс находясь в месиах, имеющих значение декора ниже чем их ожиданий\nОткройте просмотр Декора <color=#F44A47>[F8]</color> что бы увидеть текущее значения декора"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
@@ -10285,368 +10285,618 @@ msgstr "Теплый свитер"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
-msgid "Protects the wearer from <style=heat\">Cold</style> by increasingnsulation."
-msgstr "Защищает носителя от <styl\"heat\">Холода</style> величивая изоляци."
-
-						  
-								 
-				 
-		
-
-						  
-							 
-
-					  
-							 
-
-
-	 
-
-					
-			  
-		 
-
-		
-								  
-			   
-		 
-
-				 
-							 
-			 
-		 
-
-	  
-							 
-		 
-
-		 
-							  
-			  
-		
-
-						  
-								 
-			 
-		 
-
-
-			
-		 
-
-							
-		   
-		 
-
-					  
-							 
- 
-		   
-		 
-
-						   
-							
-		 
- 
-		 
-
-			 
-		 
-
-			 
-
- 
-
-						
-													   
-					 
-					
-				  
-		 
-
-											 
-		 
-
-					
-				   
-		 
-
-						 
-				
-		 
-
-														
-   
-								
-		 
-
-									  
-		 
-
-				
-								  
-		 
-
-									
-						
-		 
-
-
-					  
-		 
-
-						
-												 
-
-												 
-					 
-		 
-
-						
-				   
-		 
-
-								
-		 
-
-								  
-		 
-
-								 
-		 
-
-				
-			 
-		 
-
-						
-			
-				
-					  
-		 
-
-	
-														  
-						   
-		 
-
-						 
-					
-		 
-
-						
-														
-						 
-		 
-
-					
-													   
-						
-		 
-
-				   
-								
-		 
-
-			
-					 
-		 
-
-									
-											 
-		 
-
-					
-															
-							 
-		 
-
-							
-														 
-						  
-		 
-
-				   
-								
-		 
-
-				
-		 
-
-				
-			 
-
-  
-		 
-
-
-		 
-
-				   
-		 
-
-			 
-
-									
-										   
-			 
-		 
- 
-
-		
-		 
-
-	
-		 
-
-			
-					
-		 
-		 
-
-							
-				 
-		 
-
-				 
-		 
-		 
-
-				
-					 
-
-									   
-								
-						 
-
-									   
-								
-						 
-
-									   
-								
-						 
-
-									   
-								
-						 
-
-									   
-								
-						 
-
-					
-						 
-
-						
-						 
-
-						
-						 
-
-									   
-								
-				 
-		 
-		 
-
-		   
-		 
-
-									  
-						
-			   
-		 
-
-									   
-				 
-
-							   
-			 
-		 
-
-								   
-			 
-		 
-
-							
-		 
-
-							
-		 
-
-							
-		 
-
-								   
-			 
-		 
-
-								   
-			 
-		 
-
-								   
-			 
-		 
-
-								   
-			 
-		 
-
-									
-					 
-			 
-		 
-
-									
-		  
-	 
-		 
-
-				
-
-										 
-  
-		 
-
-			 
-
- 
-
-   
-		 
-
-
-												
-					
-		 
-
-						 
-
-								 
-
-									 
-
-								   
-										  
-			
-		 
-
-									   
-											  
-				
-		 
-
-										 
-												
-				  
-		 
-
-											 
-													
-					  
-		 
+msgid "Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation."
+msgstr "Защищает носителя от <style=\"heat\">Холода</style> увеличивая теплоизоляци.."
+
+#. STRINGS.INPUT.BACKQUOTE
+msgctxt "STRINGS.INPUT.BACKQUOTE"
+msgid "Backquote"
+msgstr ""
+
+#. STRINGS.INPUT.BACKSPACE
+msgctxt "STRINGS.INPUT.BACKSPACE"
+msgid "Backspace"
+msgstr ""
+
+#. STRINGS.INPUT.ENTER
+msgctxt "STRINGS.INPUT.ENTER"
+msgid "Enter"
+msgstr ""
+
+#. STRINGS.INPUT.LEFT_ALT
+msgctxt "STRINGS.INPUT.LEFT_ALT"
+msgid "L-Alt"
+msgstr ""
+
+#. STRINGS.INPUT.LEFT_CTRL
+msgctxt "STRINGS.INPUT.LEFT_CTRL"
+msgid "L-Ctrl"
+msgstr ""
+
+#. STRINGS.INPUT.LEFT_SHIFT
+msgctxt "STRINGS.INPUT.LEFT_SHIFT"
+msgid "L-Shift"
+msgstr ""
+
+#. STRINGS.INPUT.MOUSE
+msgctxt "STRINGS.INPUT.MOUSE"
+msgid "Mouse"
+msgstr ""
+
+#. STRINGS.INPUT.MOUSE_SCROLL_DOWN
+msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
+msgid "Mouse Scroll Down"
+msgstr ""
+
+#. STRINGS.INPUT.MOUSE_SCROLL_UP
+msgctxt "STRINGS.INPUT.MOUSE_SCROLL_UP"
+msgid "Mouse Scroll Up"
+msgstr ""
+
+#. STRINGS.INPUT.NUM
+msgctxt "STRINGS.INPUT.NUM"
+msgid "Num"
+msgstr ""
+
+#. STRINGS.INPUT.PERIOD
+msgctxt "STRINGS.INPUT.PERIOD"
+msgid "Period"
+msgstr ""
+
+#. STRINGS.INPUT.RIGHT_ALT
+msgctxt "STRINGS.INPUT.RIGHT_ALT"
+msgid "R-Alt"
+msgstr ""
+
+#. STRINGS.INPUT.RIGHT_CTRL
+msgctxt "STRINGS.INPUT.RIGHT_CTRL"
+msgid "R-Ctrl"
+msgstr ""
+
+#. STRINGS.INPUT.RIGHT_SHIFT
+msgctxt "STRINGS.INPUT.RIGHT_SHIFT"
+msgid "R-Shift"
+msgstr ""
+
+#. STRINGS.INPUT.SPACE
+msgctxt "STRINGS.INPUT.SPACE"
+msgid "Space"
+msgstr ""
+
+#. STRINGS.INPUT.TAB
+msgctxt "STRINGS.INPUT.TAB"
+msgid "Tab"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.COPYBUILDINGSETTINGS
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.COPYBUILDINGSETTINGS"
+msgid "CopyBuildingSettings"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.DECREMENT
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.DECREMENT"
+msgid "Decrement"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.DECREMENTALT
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.DECREMENTALT"
+msgid "DecrementAlt"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.DROPALL
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.DROPALL"
+msgid "DropAll"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.EMPTY
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.EMPTY"
+msgid "Empty"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.INCREMENT
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.INCREMENT"
+msgid "Increment"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.INCREMENTALT
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.INCREMENTALT"
+msgid "IncrementAlt"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.NAME
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.NAME"
+msgid "Building"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED"
+msgid "ToggleEnabled"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEOPEN
+msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEOPEN"
+msgid "ToggleOpen"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCELLINFO
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCELLINFO"
+msgid "DebugCellInfo"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCOLLECTGARBAGE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCOLLECTGARBAGE"
+msgid "DebugCollectGarbage"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDIG
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDIG"
+msgid "DebugDig"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDISCOVERALLELEMENTS
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDISCOVERALLELEMENTS"
+msgid "DebugDiscoverAllElements"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDUMPEVENTDATA
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDUMPEVENTDATA"
+msgid "DebugDumpEventData"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDUMPGARBAGEREFERENCES
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGDUMPGARBAGEREFERENCES"
+msgid "DebugDumpGarbageReferences"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGELEMENTTEST
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGELEMENTTEST"
+msgid "DebugElementTest"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGEXPLOSION
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGEXPLOSION"
+msgid "DebugExplosion"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGFOCUS
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGFOCUS"
+msgid "DebugFocus"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGFORCELIGHTEVERYWHERE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGFORCELIGHTEVERYWHERE"
+msgid "DebugForceLightEverywhere"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGGAMEPLAYTEST
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGGAMEPLAYTEST"
+msgid "DebugGameplayTest"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGGAMESTEP
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGGAMESTEP"
+msgid "DebugGameStep"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGGOTOTARGET
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGGOTOTARGET"
+msgid "DebugGotoTarget"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINSTANTBUILDMODE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINSTANTBUILDMODE"
+msgid "DebugInstantBuildMode"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINVINCIBLE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINVINCIBLE"
+msgid "DebugInvincible"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNOTIFICATION
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNOTIFICATION"
+msgid "DebugNotification"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNOTIFICATIONMESSAGE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNOTIFICATIONMESSAGE"
+msgid "DebugNotificationMessage"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPAINTFORCEFLOWER
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPAINTFORCEFLOWER"
+msgid "DebugPaintForceFlower"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPATHFINDING
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPATHFINDING"
+msgid "DebugPathFinding"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPLACE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPLACE"
+msgid "DebugPlace"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGREFRESHNAVCELL
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGREFRESHNAVCELL"
+msgid "DebugRefreshNavCell"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGRELOADLEVEL
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGRELOADLEVEL"
+msgid "DebugReloadLevel"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGRELOADMODS
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGRELOADMODS"
+msgid "DebugReloadMods"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGREPORTBUG
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGREPORTBUG"
+msgid "DebugReportBug"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGRIVERTEST
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGRIVERTEST"
+msgid "DebugRiverTest"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSELECTMATERIAL
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSELECTMATERIAL"
+msgid "DebugSelectMaterial"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSIMSTEP
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSIMSTEP"
+msgid "DebugSimStep"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSLOWTESTMODE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSLOWTESTMODE"
+msgid "DebugSlowTestMode"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSPAWNMINION
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSPAWNMINION"
+msgid "DebugSpawnMinion"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSUPERSPEED
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSUPERSPEED"
+msgid "DebugSuperSpeed"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTELEPORT
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTELEPORT"
+msgid "DebugTeleport"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTILETEST
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTILETEST"
+msgid "DebugTileTest"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLE"
+msgid "DebugToggle"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEMUSIC
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEMUSIC"
+msgid "DebugToggleMusic"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLESELECTINEDITOR
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLESELECTINEDITOR"
+msgid "DebugToggleSelectInEditor"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEUI
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEUI"
+msgid "DebugToggleUI"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTRIGGERERROR
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTRIGGERERROR"
+msgid "DebugTriggerError"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTRIGGEREXCEPTION
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTRIGGEREXCEPTION"
+msgid "DebugTriggerException"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGULTRATESTMODE
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGULTRATESTMODE"
+msgid "DebugUltraTestMode"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGVISUALTEST
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGVISUALTEST"
+msgid "DebugVisualTest"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.NAME
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.NAME"
+msgid "Debug"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.TOGGLECHROMEPROFILER
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.TOGGLECHROMEPROFILER"
+msgid "ToggleChromeProfiler"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.TOGGLEPROFILER
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.TOGGLEPROFILER"
+msgid "ToggleProfiler"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.ALTERNATEVIEW
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ALTERNATEVIEW"
+msgid "AlternateView"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.ATTACK
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ATTACK"
+msgid "Attack"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL"
+msgid "BuildingCancel"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGDECONSTRUCT
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGDECONSTRUCT"
+msgid "BuildingDeconstruct"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME"
+msgid "CameraHome"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.CLEAR
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CLEAR"
+msgid "Clear"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.CYCLESPEED
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CYCLESPEED"
+msgid "CycleSpeed"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.DIG
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DIG"
+msgid "Dig"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.MANAGECONSUMABLES
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MANAGECONSUMABLES"
+msgid "ManageConsumables"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.MANAGEPEOPLE
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MANAGEPEOPLE"
+msgid "ManagePeople"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.MANAGEREPORT
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MANAGEREPORT"
+msgid "ManageReport"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.MANAGERESEARCH
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MANAGERESEARCH"
+msgid "ManageResearch"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.MANAGEVITALS
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MANAGEVITALS"
+msgid "ManageVitals"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.MOP
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MOP"
+msgid "Mop"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.NAME
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.NAME"
+msgid "Root"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY1
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY1"
+msgid "Overlay1"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY2
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY2"
+msgid "Overlay2"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY3
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY3"
+msgid "Overlay3"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY4
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY4"
+msgid "Overlay4"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY5
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY5"
+msgid "Overlay5"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6"
+msgid "Overlay6"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7"
+msgid "Overlay7"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8"
+msgid "Overlay8"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY9
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY9"
+msgid "Overlay9"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PANCAMERA
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANCAMERA"
+msgid "PanCamera"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PANDOWN
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANDOWN"
+msgid "PanDown"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PANLEFT
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANLEFT"
+msgid "PanLeft"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PANRIGHT
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANRIGHT"
+msgid "PanRight"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PANUP
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANUP"
+msgid "PanUp"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN1
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN1"
+msgid "Plan1"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN10
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN10"
+msgid "Plan10"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN11
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN11"
+msgid "Plan11"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN12
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN12"
+msgid "Plan12"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN2
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN2"
+msgid "Plan2"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN3
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN3"
+msgid "Plan3"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN4
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN4"
+msgid "Plan4"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN5
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN5"
+msgid "Plan5"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN6
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN6"
+msgid "Plan6"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN7
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN7"
+msgid "Plan7"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN8
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN8"
+msgid "Plan8"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PLAN9
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN9"
+msgid "Plan9"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE"
+msgid "Prioritize"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.SLOWDOWN
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.SLOWDOWN"
+msgid "SlowDown"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.SPEEDUP
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.SPEEDUP"
+msgid "SpeedUp"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.TOGGLEPAUSE
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.TOGGLEPAUSE"
+msgid "TogglePause"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.TOGGLESCREENSHOTMODE
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.TOGGLESCREENSHOTMODE"
+msgid "ToggleScreenshotMode"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.ZOOMIN
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ZOOMIN"
+msgid "ZoomIn"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.ROOT.ZOOMOUT
+msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ZOOMOUT"
+msgid "ZoomOut"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.TOOL.DRAGSTRAIGHT
+msgctxt "STRINGS.INPUT_BINDINGS.TOOL.DRAGSTRAIGHT"
+msgid "DragStraight"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.TOOL.NAME
+msgctxt "STRINGS.INPUT_BINDINGS.TOOL.NAME"
+msgid "Tool"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.TOOL.PAINTBOX
+msgctxt "STRINGS.INPUT_BINDINGS.TOOL.PAINTBOX"
+msgid "PaintBox"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.TOOL.PAINTBRUSH
+msgctxt "STRINGS.INPUT_BINDINGS.TOOL.PAINTBRUSH"
+msgid "PaintBrush"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.TOOL.ROTATEBUILDING
+msgctxt "STRINGS.INPUT_BINDINGS.TOOL.ROTATEBUILDING"
+msgid "RotateBuilding"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
@@ -10679,46 +10929,54 @@ msgid "A flavorless grain that almost never wiggles on its own."
 msgstr "Безвкусное зерно, которое почти никогда не шевелится о своему хотению."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
-msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFO.NAME"
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
 msgid "Meal Lice"
 msgstr "Мукоеды"
 
-			 
-								 
-				 
-		 
+#. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
+msgid "A simple bun baked from <style=\"plant\">Sleet Wheat</style> grain.\n\nEach bite leaves a mild cooling sensation in one's mouth, even when the bun itself is warm."
+msgstr "Простая булочка, запеченная из <style=\"plant\">Зерен пшеничницы</style>.\n\nКаждый укус оставляет не сильное ощущение прохлады во рту, даже когда сама булочка теплая."
 
-	 
+#. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.NAME"
+msgid "Frost Bun"
+msgstr "Ледяная булочка"
 
-			
-											   
-						 
-		 
+#. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.RECIPEDESC"
+msgid "A simple bun baked from <style=\"plant\">Sleet Wheat</style> grain."
+msgstr "Простая булочка, запеченная из <style=\"plant\">Зерен пшеничницы</style>."
 
-										
-				   
-						 
-		 
+#. STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC"
+msgid "Sleet Wheat Grain"
+msgstr "Зерна пшеницы"
 
-									 
-											
-																						 
-		 
+#. STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME"
+msgid "Sleet Wheat Grain"
+msgstr "Зерна пшеницы"
 
-									 
-											
-		   
-		 
+#. STRINGS.ITEMS.FOOD.COOKEDMEAT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.DESC"
+msgid "The cooked meat of a defeated creature.\n\nIt has a delightful smokey aftertaste."
+msgstr "Приготовленное мясо побежденного существа.\n\nУ него восхитительное послевкусие дымка."
 
-										   
-												  
-											   
-		 
+#. STRINGS.ITEMS.FOOD.COOKEDMEAT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.NAME"
+msgid "BBQ"
+msgstr "Барбекю"
+
+#. STRINGS.ITEMS.FOOD.COOKEDMEAT.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.RECIPEDESC"
+msgid "The cooked meat of a defeated creature."
+msgstr "Приготовленное мясо побежденного существа."
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.DESC"
-msgid "Provides the most essential nutrients and nothing more. Tastes like chalk."
-msgstr "Предоставляет самые необходимые углеводы и ничего более. На вкус как мел."
+msgid "Provides the most essential nutrients and nothing more.\n\nTastes like chalk."
+msgstr "Предоставляет самые необходимые углеводы и ничего более.\n\nНа вкус как мел."
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.NAME"
@@ -10727,37 +10985,38 @@ msgstr "Пищевой паек"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
-msgid "A deep fried, solidified mudslop."
-msgstr "Сильно зажаренные, сжатые помои."
+msgid "Deep fried, solidified mudslop.\n\nThe inside is almost completely uncooked, despite the crunch on the outside."
+msgstr "Сильно зажаренная, прессованная грязь.\n\nСередина практически полностью сырая, несмотря на твердую корочку снаружи."
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
-msgid "Fried Mush Bar"
+msgid "Mush Fry"
 msgstr "Жареный мшистый батончик"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC"
-msgid "A deep fried, solidified mudslop."
-msgstr "Сильно зажаренные, сжатые помои."
+msgid "Deep fried, solidified mudslop."
+msgstr "Сильно зажаренная, прессованная грязь."
 
-#. STRINGS.ITEMS.FOOD.FRUIT.DESC
-msgctxt "STRINGS.ITEMS.FOOD.FRUIT.DESC"
-msgid "Fresh fruit from the vine. Chock full of vitamins!"
-msgstr "Свежий фрукт с лозы. Набит витаминами!"
-#. STRINGS.ITEMS.FOOD.FRUIT.NAME
-msgctxt "STRINGS.ITEMS.FOOD.FRUIT.NAME"
-msgid "Fruit"
-msgstr "Фрукт"
+#. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.DESC"
+msgid "The grilled bud of a <style=\"plant\">Bristle Blossom</style>.\n\nHeat unlocked an exquisite taste in the fruit, though the burnt spines leave something to be desired."
+msgstr "Зажаренный плод <style=\"plant\">Щитовика</style>.\n\nЖар раскрывает изысканный вкус фрукта, но подгоревшие шипы оставляют желать лучшего."
 
-													
-														   
-																	  
-		 
+#. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME"
+msgid "Gristle Berry"
+msgstr "Щитовик"
+
+#. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC"
+msgid "The grilled bud of a <style=\"plant\">Bristle Blossom</style>."
+msgstr "Зажаренный плод <style=\"plant\">Щитовика</style>."
 
 #. STRINGS.ITEMS.FOOD.MEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.DESC"
-msgid "Fresh meat from a very dead creature. Yum!"
-msgstr "Свежее мясо очень мертвого существа. Объеденье!"
+msgid "Uncooked meat from a very dead creature. Yum!"
+msgstr "Сырое мясо очень мертвого существа. Объеденье!"
 
 #. STRINGS.ITEMS.FOOD.MEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.NAME"
@@ -10766,8 +11025,8 @@ msgstr "Мясо"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
-msgid "An edible, putrefied mudslop. Preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои. Лучше чем голодание, но совсем слегка."
+msgid "An edible, putrefied mudslop that may cause <style=\"disease\">Diarrhea</style>.\n\nMush Bars are preferable to starvation, but only just barely."
+msgstr "Съедобная, сгнившая грязь которая может вызвать <style=\"disease\">Диарею</style>.\n\nМшистый Батончик лучше чем голодание, но не намного."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
@@ -10776,75 +11035,83 @@ msgstr "Мшистый батончик"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
-msgid "An edible, putrefied mudslop. Preferableo starvation, but only just barely."
-msgstr "Съеобные, перегнившие поои. Лучше чем голодание, но совсем слегка."
+msgid "An edible, putrefied mudslop.\n\nMush Bars are preferable to starvation, but only just barely."
+msgstr "Съедобная, сгнившая грязь.\n\nМшистый Батончик лучше чем голодание, но не намного."
 
-									  
-											 
-																		
-		 
+#. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
+msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
+msgid "Meal Lice preserved in vinegar.\n\nIt's a rarely acquired taste."
+msgstr "Личинки консервированные в винном уксусе.\n\nЭто редкий вкус."
 
-									  
-											 
-					
-		 
+#. STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME
+msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME"
+msgid "Pickled Meal"
+msgstr "Консервация"
 
-											
-												   
-												   
-		 
+#. STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC"
+msgid "Meal Lice regrettably preserved in vinegar."
+msgstr "Личинки консервированные в винном уксусе, к сожалению."
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC"
-msgid "Pretty pleasant, unless you forget to eat around the thorns.\n\nEating a Bristle Berry produces a Bristle Blossom Seed."
-msgstr "Довольно приятный, пока не забываешь обкусывать вокруг шипов.\n\nПосле поедания остается семя щитовика."
+msgid "A sweet, mostly pleasant-tasting fruit covered in prickly barbs."
+msgstr "Сладкие, в основном приятные на вкус фрукты, покрытые колючими шипами."
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "Bristle Berry"
-msgstr "Щетинистая ягодка"
+msgstr "Ягода Щитовика"
 
 #. STRINGS.ITEMS.FOOD.ROTPILE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.DESC"
 msgid "An inedible glop of former foodstuff.\n\nRot piles break down into <style=\"solid\">Polluted Dirt</style> over time."
 msgstr "Несъедобная куча бывших продуктов питания. \n\nГнилые кучи разбиваются на блоки <style=\"solid\">Загрязненой Земпли</style> со временем."
 
-#. STRINGS.ITEMS.FO.ROTPILE.NAME
-msgctxt "STRINGS.ITEMSOOD.ROTPILE.NAME"
+#. STRINGS.ITEMS.FOOD.ROTPILE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.NAME"
 msgid "Rot Pile"
-msgstr "Гнилая кча"
-		 
+msgstr "Куча гнили"
 
-								
-									   
-																											
-		 
+#. STRINGS.ITEMS.FOOD.SALSA.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SALSA.DESC"
+msgid "A baked <style=\"food\">Bristle Berry</style> stuffed with delectable spices and vibrantly flavored."
+msgstr "Приготовленные <style=\"food\">Ягоды Щитовика</style> фаршированные восхитительными специями и сильными ароматами."
 
-						
-									   
-					 
-		 
+#. STRINGS.ITEMS.FOOD.SALSA.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SALSA.NAME"
+msgid "Stuffed Berry"
+msgstr "Фаршированные ягоды"
 
-							 
-										
-											
-														 
-								 
+#. STRINGS.ITEMS.FOOD.SALSA.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.SALSA.RECIPEDESC"
+msgid "A baked <style=\"food\">Bristle Berry</style> stuffed with delectable spices and vibrantly flavored."
+msgstr "Приготовленные <style=\"food\">Ягоды Щитовика</style> фаршированные восхитительными специями и сильными ароматами."
 
-								   
-												  
-																									  
-		 
+#. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.DESC"
+msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite.\n\nThere's a simple joy to be had in pulling it apart in one's fingers."
+msgstr "Кусочек хлеба слегка приправленный <style=\"food\">Щелкающим перцем</style> для легкого перекуса.\n\Это просто счатье находящееся в ваших пальцах."
 
-								   
-										  
-																																						  
-		 
+#. STRINGS.ITEMS.FOOD.SPICEBREAD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.NAME"
+msgid "Pepper Bread"
+msgstr "Перченный хлеб"
 
-								   
-										  
-						
-		 
+#. STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC"
+msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite."
+msgstr "Кусочек хлеба слегка приправленный <style=\"food\">Щелкающим перцем</style> для легкого перекуса."
+
+#. STRINGS.ITEMS.FOOD.SPICENUT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.DESC"
+msgid "The flavorful nut of a <style=\"plant\">Pincha Pepperplant</style>.\n\nThe bitter outer rind hides a rich, peppery core that is useful in cooking."
+msgstr "Ароматный орех <style=\"plant\">Щелкающего перца</style>.\n\nЖеская внешняя корка скрывает сочное, острое ядро, которое можно использовать при приготовлении пищи."
+
+#. STRINGS.ITEMS.FOOD.SPICENUT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.NAME"
+msgid "Pincha Peppernut"
+msgstr "Щелкающий перец"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
@@ -10888,8 +11155,8 @@ msgstr "Останавливает ужасные происшествия от 
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.NAME
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.NAME"
-msgid "Herbal Remedy"
-msgstr "Травяное средство"
+msgid "Herbal Gut Remedy"
+msgstr "Лекарственные растения"
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC"
@@ -10953,8 +11220,8 @@ msgstr "Ресурс доступен"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP"
-msgid "These resources are now available:"
-msgstr "Следующие ресурсы теперь доступны:"
+msgid "These resources have become available:"
+msgstr "Следующие ресурсы стали доступны:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -10993,8 +11260,8 @@ msgstr "Следующие постройки обрушились из-за т�
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME"
-msgid "Building overheated"
-msgstr "Постройка перегрета"
+msgid "Damage: Overheated"
+msgstr "Повреждение: перегрев"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP"
@@ -11008,8 +11275,8 @@ msgstr "Провод перегрет"
 
 #. STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.TOOLTIP"
-msgid "A wire melted due to too much current draw on its circuit"
-msgstr "Провод расплавлен из-за слишком большого тока, потребляемого его цепью"
+msgid "These wires melted due to excessive current demands on their circuits"
+msgstr "Эти провода расплавились из-за очень высоких токов в сетях"
 
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME"
@@ -11023,8 +11290,8 @@ msgstr "Все Дупликанты мертвы или выведены из с
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME"
-msgid "Duplicants have been crushed to death"
-msgstr "Дупликант был насмерть задавлен"
+msgid "Duplicants crushed"
+msgstr "Дупликант раздавлен"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP"
@@ -11051,16 +11318,6 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP"
 msgid "These Duplicants have drowned:"
 msgstr "Следующие Дупликанты утонули:"
 
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.NAME
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.NAME"
-msgid "Duplicants have been electrocuted to death"
-msgstr "Дупликантов убило током"
-
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.TOOLTIP
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.TOOLTIP"
-msgid "These Duplicants died by electrocution:"
-msgstr "Следующие Дупликанты умерли от удара током:"
-
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME"
 msgid "Duplicants have been entombed"
@@ -11071,20 +11328,10 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP"
 msgid "These Duplicants are trapped and need assistance:"
 msgstr "Следующие Дупликанты замурованы и им нужна помощь:"
 
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.NAME
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.NAME"
-msgid "Duplicants have died in an explosion"
-msgstr "Дупликантов убило взрывом"
-
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.TOOLTIP
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.TOOLTIP"
-msgid "These Duplicants died in an explosion:"
-msgstr "Следующих Дупликантов убило взрывом:"
-
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME"
-msgid "Duplicants have fallen to their death"
-msgstr "Дупликанты разбились насмерть"
+msgid "Duplicants splattered"
+msgstr "Дупликанты разбились"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP"
@@ -11093,8 +11340,8 @@ msgstr "Следующие Дупликанты разбились насмер�
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME"
-msgid "A Duplicant has frozen to death"
-msgstr "Дупликант замерз насмерть"
+msgid "Duplicants have frozen"
+msgstr "Дупликанты замерзли"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP"
@@ -11103,8 +11350,8 @@ msgstr "Следующие Дупликанты умерли от чрезвыч
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.NAME"
-msgid "A Duplicant has overheated to death"
-msgstr "Дупликант перегрелся насмерть"
+msgid "A Duplicant have overheated"
+msgstr "Дупликант перегрелся"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP"
@@ -11113,7 +11360,7 @@ msgstr "Следующие Дупликанты умерли от чрезвыч
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.NAME"
-msgid "Duplicants have died from overpressurization"
+msgid "Duplicants pressurized"
 msgstr "Дупликанты умерли от избыточного давления"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.TOOLTIP
@@ -11123,7 +11370,7 @@ msgstr "Следующие Дупликанты умерли от слишком
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME"
-msgid "Duplicants have succumb to poisoning"
+msgid "Duplicants poisoned"
 msgstr "Дупликанты умерли от отравления"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP
@@ -11133,7 +11380,7 @@ msgstr "Следующие Дупликанты умерли от отравле
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.NAME"
-msgid "Duplicants have died from rapid decompression"
+msgid "Duplicants pressurized"
 msgstr "Дупликанты умерли от быстрой потери давления"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.TOOLTIP
@@ -11143,7 +11390,7 @@ msgstr "Следующие Дупликанты умерли от слишком
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME"
-msgid "Duplicants have starved to death"
+msgid "Duplicants have starved"
 msgstr "Дупликанты умерли от голода"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP
@@ -11153,7 +11400,7 @@ msgstr "Следующие Дупликанты умерли от недоста
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME"
-msgid "Duplicants have suffocated in the cold"
+msgid "Duplicants have suffocated"
 msgstr "Дупликанты задохнулись в холоде"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP
@@ -11163,7 +11410,7 @@ msgstr "Следующие Дупликанты задохнулись <style=\"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME"
-msgid "Duplicants have suffocated in the heat"
+msgid "Duplicants have suffocated"
 msgstr "Дупликанты задохнулись в жаре"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP
@@ -11171,20 +11418,10 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP"
 msgid "These Duplicants have asphyxiated in <style=\"heat\">Hot</style> air:"
 msgstr "Следующие Дупликанты задохнулись <style=\"heat\">Горячим</style> воздухом:"
 
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.NAME
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.NAME"
-msgid "Duplicants have suffocated in gas"
-msgstr "Дупликанты задохнулись газом"
-
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.TOOLTIP
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.TOOLTIP"
-msgid "These Duplicants died from breathing <style=\"gas\">Gas</style> with no <style=\"oxygen\">Oxygen</style>:"
-msgstr "Следующие Дупликанты умерли от того, что дышали <style=\"gas\">Газом</style> без <style=\"oxygen\">Кислорода</style>:"
-
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME"
-msgid "Duplicants have suffocated to death"
-msgstr "Дупликанты задохнулись насмерть"
+msgid "Duplicants have suffocated"
+msgstr "Дупликанты задохнулись"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP"
@@ -11193,23 +11430,13 @@ msgstr "Следующие Дупликанты не смогли добрать
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
-msgid "A Duplicant has suffocated to death"
-msgstr "Дупликант задохнулся насмерть"
+msgid "Duplicants suffocated"
+msgstr "Дупликанты задохнулись"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP"
 msgid "These Duplicants died from a lack of <style=\"oxygen\">Oxygen</style>:"
 msgstr "Следующие Дупликанты умерли от недостатка <style=\"oxygen\">Кислорода</style>:"
-
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.NAME
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.NAME"
-msgid "A Duplicant has met a tragic end"
-msgstr "Дупликант скончался"
-
-#. STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.TOOLTIP
-msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.TOOLTIP"
-msgid "These Duplicants experienced a unique death:"
-msgstr "Следующие Дупликанты умерли необычным образом:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY"
@@ -11363,8 +11590,8 @@ msgstr " появилась {0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
-msgid "These Duplicants' injuries weren't set properly. They developed new traits as a result:"
-msgstr "Ранения следующих Дупликантов плохо зажили. В результате у них появились новые черты:"
+msgid "These Duplicants' injuries weren't set and healed improperly. They developed traits as a result:"
+msgstr "Травмы Дубликантов не были приняты во внимание и исцелялись ненадлежащим образом. В результате у Дупликантов появились следующие черты:"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
@@ -11373,8 +11600,8 @@ msgstr "Новые Дупликанты были реабсорбированы"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP"
-msgid "The printable Duplicants have been reabsorbed"
-msgstr "Доступные для печати Дупликанты были реабсорбированы"
+msgid "The printable Duplicants have been Oozed"
+msgstr "Доступные для печати Дупликанты были растворены"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
@@ -11408,13 +11635,13 @@ msgstr " - {0} поднаялось до {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
-msgid "Hardwork and repetition have improved these Duplicants' skill"
+msgid "Hardwork and repetition have improved these Duplicants' skills:"
 msgstr "Терпение и труд увеличили навыки следующих Дупликантов:"
 
-												 
-														
-														  
-		 
+#. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP_PST
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP_PST"
+msgid "\n\nTheir expectations have increased accordingly."
+msgstr "\n\nСоответственно, их ожидания возросли."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
@@ -11453,8 +11680,8 @@ msgstr "ПОДСКАЗКА: Загрязненная вода"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP"
-msgid "Learn how to prevent <style=\"disease\">Disease</style> outbreaks"
-msgstr "Узнайте как предотвращать вспышки <style=\"disease\">Болезней</style>"
+msgid "Learn how to prevent disease outbreaks"
+msgstr "Узнайте как предотвращать вспышки болезни"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME"
@@ -11513,18 +11740,18 @@ msgstr "Колонии требуются туалеты"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
-msgid "Your Duplints have nowhere to relieve themselves"
-msgstr "Вшим Дупликантам негде справить нужду"
+msgid "Your Duplicants have nowhere to relieve themselves"
+msgstr "Вашим Дупликантам негде справить нужду"
 
-										   
-												  
-								 
-		 
+#. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME"
+msgid "{0} has developed a trait"
+msgstr "{0} выработал черту характера"
 
-											  
-													 
-											  
-		 
+#. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP"
+msgid "{0} has developed the trait(s):\n\n{1}"
+msgstr "{0} выработал черты характера:\n\n{1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
@@ -11548,8 +11775,8 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME"
-msgid "No storage regions designated"
-msgstr "Нет обозначенных зон хранения"
+msgid "No storage designated"
+msgstr "Нет места для хранения"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP"
@@ -11791,10 +12018,10 @@ msgctxt "STRINGS.MISC.PLACERS.MOPPLACER.NAME"
 msgid "Mop"
 msgstr "Вытирать"
 
-									
-										   
-					  
-		 
+#. STRINGS.MISC.POPFX.RESOURCE_EATEN
+msgctxt "STRINGS.MISC.POPFX.RESOURCE_EATEN"
+msgid "Resource Eaten"
+msgstr "Ресурс съеден"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME"
@@ -11833,8 +12060,8 @@ msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP"
-msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr "Производит <style=\"gas\">{Element}</style> at {FlowRate}"
+msgid "Producing {Element} at a rate of {FlowRate}"
+msgstr "Производит {Element} со скоростью {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME"
