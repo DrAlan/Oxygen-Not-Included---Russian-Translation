@@ -36,12 +36,12 @@ msgstr "Постройка Повреждена: Вспышка гнева"
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
 msgid "Stressed Duplicants are damaging these buildings:\n\n{0}"
-msgstr "Дубликант в состоянии стресса повреждает эти постройки:\n\n{0}"
+msgstr "Дупликант в состоянии стресса повреждает эти постройки:\n\n{0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP"
 msgid "A stressed Duplicant is damaging this building"
-msgstr "Дубликант в состоянии стресса повреждает эту постройку"
+msgstr "Дупликант в состоянии стресса повреждает эту постройку"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
@@ -61,7 +61,7 @@ msgstr "Незаконченное произведение искусства"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "This building requires a Duplicant's artistic touch"
-msgstr "Эта постройка требует художественного прикосновения Дубликанта"
+msgstr "Эта постройка требует художественного прикосновения Дупликанта"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -1521,7 +1521,7 @@ msgstr "Каждый дополнительный монитор экспоне�
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Conducts <style=\"research\">Intermediate Research</style> and unlocks new technologies when worked on by Duplicants."
-msgstr "Выполняет <style=\"research\">Продвинутые Исследования</style> и открывает новые технологий когда Дубликанты работают тут."
+msgstr "Выполняет <style=\"research\">Продвинутые Исследования</style> и открывает новые технологий когда Дупликанты работают тут."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -1951,7 +1951,7 @@ msgstr "Напольная лампа"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
 msgid "Duplicants can all agree it looks nice, even if they can't agree how to pronounce it."
-msgstr "Дубликанты согласны что это выглядит отлично, даже если они не знают как произносить это."
+msgstr "Дупликанты согласны что это выглядит отлично, даже если они не знают как произносить это."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
@@ -2431,7 +2431,7 @@ msgstr "Водосток"
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
 msgid "Running on this wheel produces electricity.\nAnd smelly Duplicants."
-msgstr "Бегущие на этом колесе производят электричество.\nИ вонючих Дубликантов."
+msgstr "Бегущие на этом колесе производят электричество.\nИ вонючих Дупликантов."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
@@ -2461,7 +2461,7 @@ msgstr "Ручной шлюз"
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.ACTIVATE_TOOLTIP"
 msgid "Duplicants must take a break when their stress reaches {0}"
-msgstr "Дубликанты должны сделать перерыв когда их стресс достигает {0}"
+msgstr "Дупликанты должны сделать перерыв когда их стресс достигает {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DEACTIVATE_TOOLTIP"
@@ -2471,12 +2471,12 @@ msgstr "Перерыв закончится когда стрес упадет �
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC"
 msgid "Duplicants tend to carry a lot of tension in their... everything."
-msgstr "Дубликанты склонны накапливать много напряжения в своих... везде."
+msgstr "Дупликанты склонны накапливать много напряжения в своих... везде."
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT"
 msgid "Rapidly reduces <style=\"stress\">Stress</style> for one Duplicant at a time.\n\nDuplicants will automatically use massage tables if their <style=\"stress\">Stress</style> enters Breaktime range."
-msgstr "Быстро уменьшает <style=\"stress\">Стресс</style> одного Дупликанта при использовании.\n\nДубликанты будут автоматически использовать массажный стол если их <style=\"stress\">Стресс</style> достигнет уровня для отдыха."
+msgstr "Быстро уменьшает <style=\"stress\">Стресс</style> одного Дупликанта при использовании.\n\nДупликанты будут автоматически использовать массажный стол если их <style=\"stress\">Стресс</style> достигнет уровня для отдыха."
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
@@ -2686,7 +2686,7 @@ msgstr "Храните еду в ящике?\nЗвучит рациональн�
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>.\n\nMust be filled with Food by Duplicants."
-msgstr "Хранит небольшой объем <style=\"food\">Еды</style>.\n\nДубликанты должен заполнять его едой."
+msgstr "Хранит небольшой объем <style=\"food\">Еды</style>.\n\nДупликанты должен заполнять его едой."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
@@ -2716,7 +2716,7 @@ msgstr "Ах. Первый химический набор Дупликанто�
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
 msgid "Conducts <style=\"research\">Novice Research</style> and unlocks new technologies when worked on by Duplicants."
-msgstr "Проводит <style=\"research\">Базовые Исследования</style> и открывает новые технологии когда Дубликанты работают на нем."
+msgstr "Проводит <style=\"research\">Базовые Исследования</style> и открывает новые технологии когда Дупликанты работают на нем."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
@@ -2961,7 +2961,7 @@ msgstr "Выключить автоматический ремонт"
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP"
 msgid "If disabled, Duplicants will require orders to repair this building"
-msgstr "Когда выключен, Дубликанты должны будут быть назначены, что бы ремонтировать это строение."
+msgstr "Когда выключен, Дупликанты должны будут быть назначены, что бы ремонтировать это строение."
 
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME"
@@ -2971,7 +2971,7 @@ msgstr "Включить автоматический ремонт"
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
 msgid "If enabled, Duplicants will automatically repair this building when it sustains damage"
-msgstr "Когда включен, Дубликанты будут автоматически ремонтировать это строение если оно полчит урон."
+msgstr "Когда включен, Дупликанты будут автоматически ремонтировать это строение если оно полчит урон."
 
 #. STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.DESC
 msgctxt "STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.DESC"
@@ -6876,7 +6876,7 @@ msgstr "Беркли"
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
 msgid "{0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence."
-msgstr "Все {0} - милые лопухи. Странное дело, но остальные Дупликанты не могут ругаться, когда рядом� ними есть {0}."
+msgstr "Все {0} - милые лопухи. Странное дело, но остальные Дупликанты не могут ругаться, когда рядом ними есть {0}."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
@@ -6936,7 +6936,7 @@ msgstr "Макс"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
 msgid "{0}s have a face only a twelve tonne Printing Pod could love."
-msgstr "У {0}а такая рожа, полюбить которую может только двенадцатитонный Принтер Дубликантов."
+msgstr "У {0}а такая рожа, полюбить которую может только двенадцатитонный Принтер Дупликантов."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
@@ -7336,7 +7336,7 @@ msgstr "Холодное окружение"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant cannot retain enough heat to stay warm and may be under insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
-msgstr "Этот Дубликант не может сохранить достаточного количества тепла что бы не замерзнуть и похоже изолирован в этом месте\nМодификатор стресса: {StressModification}\n\nОбмен со средой: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
+msgstr "Этот Дупликант не может сохранить достаточного количества тепла что бы не замерзнуть и похоже изолирован в этом месте\nМодификатор стресса: {StressModification}\n\nОбмен со средой: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -7696,7 +7696,7 @@ msgstr "Жаркое окружение"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP"
 msgid "This Duplicant cannot let off enough heat to stay cool and may be over insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
-msgstr "Этот Дубликант не может испускать достаточного количество тепла что бы не перегреться и похоже изолирован в этом месте\nМодификатор стресса: {StressModification}\n\nОбмен со средой: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
+msgstr "Этот Дупликант не может испускать достаточного количество тепла что бы не перегреться и похоже изолирован в этом месте\nМодификатор стресса: {StressModification}\n\nОбмен со средой: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME"
@@ -7746,7 +7746,7 @@ msgstr "Этих Дупликантов нужно вылечить, иначе 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant is near death! They need to be rescued quickly\n----------\nDuplicants must have an assigned Medical Cot or Rejuvenator to be rescued"
-msgstr "Этот Дупликант близок к гибели! Требуется срочное спасение\n----------\nДубликанты должны быть назначены в Медкровать или в Омолаживатель, чтобы быть спасёнными"
+msgstr "Этот Дупликант близок к гибели! Требуется срочное спасение\n----------\nДупликанты должны быть назначены в Медкровать или в Омолаживатель, чтобы быть спасёнными"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
@@ -7976,7 +7976,7 @@ msgstr "Отвратительная еда"
 #. STRINGS.DUPLICANTS.STATUSITEMS.POOR_FOOD_QUALITY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POOR_FOOD_QUALITY.TOOLTIP"
 msgid "This Duplicant's last meal didn't meet their expectations"
-msgstr "Последняя еда Дубликанта не соответствовала его ожиданиям"
+msgstr "Последняя еда Дупликанта не соответствовала его ожиданиям"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
@@ -8076,7 +8076,7 @@ msgstr "Красная Тревога"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP"
 msgid "The colony is in a state of Red Alert. Duplicants will not eat, sleep, use the bathroom or engage in leisure activities while the Red Alert is active"
-msgstr "Колония в состоянии Красной Тревоги. Дубликанты не будут есть, спать, использовать туалет или отдыхать пока Красная Тревога активна"
+msgstr "Колония в состоянии Красной Тревоги. Дупликанты не будут есть, спать, использовать туалет или отдыхать пока Красная Тревога активна"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME"
@@ -8836,7 +8836,7 @@ msgstr "Клаустрофоб"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC"
 msgid "Climbing ladders more than four tiles tall makes this Duplicant's stomach do flips"
-msgstr "Подъем по лестнице более чем в четыре блока в высоту выворачивает желудок этого Дубликанта"
+msgstr "Подъем по лестнице более чем в четыре блока в высоту выворачивает желудок этого Дупликанта"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
@@ -8846,7 +8846,7 @@ msgstr "Голововскруженный"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
-msgstr "У этого Дубликанта умирает что то внутри, когда он вынужден носить не стильную одежду"
+msgstr "У этого Дупликанта умирает что то внутри, когда он вынужден носить не стильную одежду"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME"
@@ -11476,7 +11476,7 @@ msgstr "Следующие фабрикаторы не имеют задач в 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "Duplicants are great at doing chores and can fetch water without direct orders.\n\nIf a building requires <style=\"liquid\">Water</style> or other liquids, Duplicants will seek out and collect it from the nearest pool and deliver it where it needs to go. A Duplicants' multitool can collect water from any pool within two tiles' reach."
-msgstr "Дубликанты отлично справляются с работой и могут приносить воду без прямых заказов.\n\nЕсли постройка нуждается в <style=\"liquid\">Воде</style> или другой жидкости - Дубликант будет искать и собирать её из ближайших резервуаров и достовлять её туда, где она нужна. Мультиинструмент Дубликанта может собирать воду из резервуаров в радиусе двух квадратов."
+msgstr "Дупликанты отлично справляются с работой и могут приносить воду без прямых заказов.\n\nЕсли постройка нуждается в <style=\"liquid\">Воде</style> или другой жидкости - Дупликант будет искать и собирать её из ближайших резервуаров и достовлять её туда, где она нужна. Мультиинструмент Дупликанта может собирать воду из резервуаров в радиусе двух квадратов."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
@@ -11591,7 +11591,7 @@ msgstr " появилась {0}"
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
 msgid "These Duplicants' injuries weren't set and healed improperly. They developed traits as a result:"
-msgstr "Травмы Дубликантов не были приняты во внимание и исцелялись ненадлежащим образом. В результате у Дупликантов появились следующие черты:"
+msgstr "Травмы Дупликантов не были приняты во внимание и исцелялись ненадлежащим образом. В результате у Дупликантов появились следующие черты:"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
@@ -17186,7 +17186,7 @@ msgstr "Случайное имя колонии"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Shuffle for a different Duplicant"
-msgstr "Перемешать на другого Дубликанта"
+msgstr "Перемешать на другого Дупликанта"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
@@ -17786,22 +17786,22 @@ msgstr "КАРТА КИСЛОРОДА"
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
 msgid "Oxygen concentration is high and allows Duplicants to breathe"
-msgstr "Концентрация кислорода высокая и позволяет Дубликантам дышать"
+msgstr "Концентрация кислорода высокая и позволяет Дупликантам дышать"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Oxygen concentration is sufficient and allows Duplicants to breathe"
-msgstr "Концентрация кислорода достаточная и позволяет Дубликантам дышать"
+msgstr "Концентрация кислорода достаточная и позволяет Дупликантам дышать"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
 msgid "Oxygen concentration is low and is difficult for Duplicants to breathe"
-msgstr "Концентрация кислорода незначительная и Дубликантам тяжело дышить"
+msgstr "Концентрация кислорода незначительная и Дупликантам тяжело дышить"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
 msgid "Oxygen is extremely low pressure or not present and will suffocate Duplicants"
-msgstr "Кислород под крайне низким давлением или отсутствует и Дубликанты будут задыхаться"
+msgstr "Кислород под крайне низким давлением или отсутствует и Дупликанты будут задыхаться"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
@@ -18635,7 +18635,7 @@ msgstr "Убрать сообщение"
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a new name"
-msgstr "Дайте этому Дубликанту новое имя"
+msgstr "Дайте этому Дупликанту новое имя"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYGENERATED"
@@ -19105,7 +19105,7 @@ msgstr "{0}\n\n{1}"
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE"
 msgid "Emergency Access Permissions:\nAll Duplicants are permitted to use this door until <style=\"power\">Power</style> is restored."
-msgstr "Аварийный режим доступа:\nВсем Дубликантам разрешено использовать эту дверь пока <style=\"power\">Питание</style> не возобновится."
+msgstr "Аварийный режим доступа:\nВсем Дупликантам разрешено использовать эту дверь пока <style=\"power\">Питание</style> не возобновится."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
@@ -20145,7 +20145,7 @@ msgstr "Отменить Карантин"
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP"
 msgid "Isolate this Duplicant\nThe Duplicant will return to their assigned Cot"
-msgstr "Изолировать этого Дупликанта\nДубликант вернется в назначеную ему Кровать"
+msgstr "Изолировать этого Дупликанта\nДупликант вернется в назначеную ему Кровать"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED"
