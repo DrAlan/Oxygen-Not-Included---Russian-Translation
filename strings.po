@@ -141,7 +141,7 @@ msgstr "Заправлено топливом: ({0})"
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP"
 msgid "{0} fuel remaining"
-msgstr "{0} топлива осталось
+msgstr "{0} топлива осталось"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
@@ -2466,7 +2466,7 @@ msgstr "Дубликанты должны сделать перерыв когд
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DEACTIVATE_TOOLTIP"
 msgid "Breaktime ends when stress is reduced to {0}"
-msgstr ""
+msgstr "Перерыв закончится когда стрес упадет до {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC"
@@ -3466,7 +3466,7 @@ msgstr "Растения постепенно поглощают жидкие п
 #. STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT"
 msgid "{0}: {1}\nNext harvest in {2}"
-msgstr ""{0}: {1}\nСледующий урожай через {2}
+msgstr ""{0}: {1}\nСледующий урожай через {2}"
 
 #. STRINGS.CREATURES.STATS.MATURITY.GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWING"
@@ -4965,8 +4965,8 @@ msgstr "Выражает эмоции"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
-msgid "High Priority Emote"
-msgstr "Высокий Приоритет Выражений Эмоций"
+msgid "Expressing themself"
+msgstr "Самовыражение"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
@@ -6391,14 +6391,14 @@ msgstr "У этого Дупликанта не было выбора, кром�
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
 msgid "This Duplicant's stress is just melting away"
-msgstr стресс этого Дупликанта будто растаял"
+msgstr "Стресс этого Дупликанта просто улетучился"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
 msgid "Environmental Exchange"
 msgstr "Экологический обмен"
 
-#. STRINGS.DUPLICANTS.MODIFIERS.TOCENVIRONMENT.NAME
+#. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
 msgid "Toxic environment"
 msgstr "Загрязненая окружающая среда"
@@ -6461,7 +6461,7 @@ msgstr "Дискомфортный сон"
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
 msgid "This Duplicant collapsed from sheer exhaustion"
-msgstr "Этот УДпликант будто разваливается от изнеможения"
+msgstr "Этот Дупликант будто разваливается от изнеможения"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME"
@@ -6476,7 +6476,7 @@ msgstr "Движения этого Дупликанта скованы"
 #. STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.CAUSE"
 msgid "This Duplicant got so good at their job that they became incapable of tolerating unfashionable clothing"
-msgstr ""
+msgstr "Этот Дуплиант стал так хорош в своей работе, что стал неспособен переносить немодную одежду"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.NAME"
@@ -12473,7 +12473,7 @@ msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop Pending"
 msgstr "Ожидает вытирания"
 
-#. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLT
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
 msgid "Awaiting a Duplicant to mop"
 msgstr "Ожидание Дупликантам для вытирания"
@@ -12671,7 +12671,7 @@ msgstr "Благородный металл"
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
 msgid "Refined Metal"
-msgstr "Очищенный металл
+msgstr "Очищенный металл"
 
 #. STRINGS.MISC.TAGS.RELAXATION_POINT
 msgctxt "STRINGS.MISC.TAGS.RELAXATION_POINT"
@@ -15026,7 +15026,7 @@ msgstr "Начало перегрева при {0} и плавления при 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY"
 msgid "Plants grow more slowly when contained within boxes"
-mstr "Растения растут медленней когда находятся в коробках"
+msgstr "Растения растут медленней когда находятся в коробках"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PRODUCES_RESEARCH_POINTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PRODUCES_RESEARCH_POINTS"
@@ -15486,7 +15486,7 @@ msgstr "Оставшееся демонстрационное время"
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS"
 msgid "{0}: {1}"
-msgstr {0}: {1}"
+msgstr "{0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE"
@@ -16256,11 +16256,11 @@ msgstr "Введите текст..."
 #. STRINGS.UI.FORMATDAY
 msgctxt "STRINGS.UI.FORMATDAY"
 msgid "{0} cycles"
-mstr "{0} циклов"
+msgstr "{0} циклов"
 
 #. STRINGS.UI.FORMATSECONDS
 msgctxt "STRINGS.UI.FORMATSECONDS"
-msgid "{0}s
+msgid "{0}s"
 msgstr "{0}с"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
@@ -16385,8 +16385,8 @@ msgstr "{0} отвязана. Вы точно хотите продолжить?
 
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
-msgid "Загрузка..."
-msgstr ""
+msgid "Loading..."
+msgstr "Загрузка..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -17006,7 +17006,7 @@ msgstr "<style=\"produced\">+{0}</style>"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
 msgid "Lowers ambient air temperature"
-msgs "Понижает температуру окружающего воздуха"
+msgstr "Понижает температуру окружающего воздуха"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT"
@@ -17209,9 +17209,9 @@ msgid "High"
 msgstr "Высокий"
 
 #. STRINGS.UI.JOBSCREEN_LOW
-msgctxt "STRINGS.UI.JSCREEN_LOW"
+msgctxt "STRINGS.UI.JOBSCREEN_LOW"
 msgid "Low"
-msgstr "Низкий
+msgstr "Низкий"
 
 #. STRINGS.UI.JOBSCREEN_PRIORITY
 msgctxt "STRINGS.UI.JOBSCREEN_PRIORITY"
@@ -17800,8 +17800,8 @@ msgstr "Концентрация кислорода незначительная
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
-msgid "Oxygen concentration is nonexistent and will suffocate Duplicants"
-msgstr "Отсутсвует кислород и Дубликанты будут задыхаться"
+msgid "Oxygen is extremely low pressure or not present and will suffocate Duplicants"
+msgstr "Кислород под крайне низким давлением или отсутствует и Дубликанты будут задыхаться"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
@@ -18260,7 +18260,7 @@ msgstr "БЫСТРО"
 #. STRINGS.UI.SPEED_MEDIUM
 msgctxt "STRINGS.UI.SPEED_MEDIUM"
 msgid "MEDIUM"
-msgr "СРЕДНЕ"
+msgstr "СРЕДНЕ"
 
 #. STRINGS.UI.SPEED_SLOW
 msgctxt "STRINGS.UI.SPEED_SLOW"
@@ -18455,7 +18455,7 @@ msgstr "Водопровод"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr "Клетки
+msgstr "Блоки"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
@@ -19265,7 +19265,7 @@ msgstr "Отсутствует {0} из {1}\n"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
-msgid "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
@@ -19385,7 +19385,7 @@ msgstr "<b>Эффекты</b>:"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS"
 msgid "<b>Growth Requirements</b>:"
-msgs "<b>Требования для роста</b>:"
+msgstr "<b>Требования для роста</b>:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING"
@@ -19424,8 +19424,8 @@ msgstr "Если растение достигнет зрелости имея �
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD"
-msgid "Если растение достигнет зрелости, имея менее 40 баллов урожая, оно даст стандартный урожай"
-msgstr ""
+msgid "If a plant reaches maturity with fewer than 40 Harvest Rating Points it will produce a Standard yield"
+msgstr "Если растение достигнет зрелости, имея менее 40 баллов урожая, оно даст стандартный урожай"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD"
@@ -19840,7 +19840,8 @@ msgstr " ºC"
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT"
 msgid " ºF"
-msgstr ºF"
+msgstr " ºF"
+
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN"
 msgid " K"
