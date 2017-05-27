@@ -1311,7 +1311,7 @@ msgstr "Низкое давление воздуха"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
 msgid "A minimum atmospheric pressure of {TargetPressure} is needed for this building to operate"
-msgstr "Минимальное атмосферное давление в {TargetPressure} необходимо для работы этого здания"
+msgstr "Минимальное атмосферное давление в {TargetPressure} необходимо для работы этой постройки"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
@@ -11266,7 +11266,7 @@ msgstr "Повреждение: перегрев"
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.TOOLTIP"
 msgid "Excessive heat is damaging these buildings:\n{0}"
-msgstr "Чрезмерное жара повреждает эти здания:\n{0}"
+msgstr "Чрезмерное жара повреждает эти постройки:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.CIRCUIT_OVERLOADED.NAME"
