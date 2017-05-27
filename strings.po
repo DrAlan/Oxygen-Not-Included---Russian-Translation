@@ -4485,7 +4485,7 @@ msgstr "Температура перегрева"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant's highest attribute is {0}\n----------\nDuplicants develop higher expectations as their profession level increases"
-msgstr "Этот Дупликант наиболее опытен в {0}\n----------\nУ Дупликанта появляются более высокие ожидания по мере роста их профессианального уровня."
+msgstr "{0} Это то что Дупликант делает лучше всего\n----------\nУ Дупликанта появляются более высокие ожидания по мере роста их профессианального уровня."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
@@ -6610,7 +6610,7 @@ msgstr "Неприятная"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_3
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_3"
 msgid "Grisly"
-msgstr "Отвратительная"
+msgstr "Мерзкая"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1"
@@ -7970,7 +7970,7 @@ msgstr "Этот Дупликант транспортирует материа�
 #. STRINGS.DUPLICANTS.STATUSITEMS.POOR_FOOD_QUALITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POOR_FOOD_QUALITY.NAME"
 msgid "Lousy Meal"
-msgstr "Отвратительная еда"
+msgstr "Мерзкая еда"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POOR_FOOD_QUALITY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POOR_FOOD_QUALITY.TOOLTIP"
@@ -8555,7 +8555,7 @@ msgstr "Горяч"
 #. STRINGS.DUPLICANTS.THOUGHTS.POOR_FOOD_QUALITY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POOR_FOOD_QUALITY.TOOLTIP"
 msgid "Lousy Meal"
-msgstr "Отвратительная еда"
+msgstr "Мерзкая еда"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
@@ -8600,7 +8600,7 @@ msgstr "Этот Дупликант выразит все свое негодо�
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME"
 msgid "Destructive"
-msgstr "Разрушителен"
+msgstr "Разрушитель"
 
 #. STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.DESC"
@@ -8800,7 +8800,7 @@ msgstr "Эти руки хороши для копания, но найти по
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr "Кроторукий"
+msgstr "Лопаторукий"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
@@ -9015,12 +9015,12 @@ msgstr "Ничего не будет хорошо, если этот Дупли�
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
 msgid "Ugly Crier"
-msgstr "Неприятно плачущий"
+msgstr "Плакса"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has no appreciation for the finer things"
-msgstr "Этот Дупликант не уважает искусство"
+msgstr "Этот Дупликант не любит искусство"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
@@ -9030,7 +9030,7 @@ msgstr "Неотесанный"
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid "All the Vitamin C in space can't stop this Duplicant from getting sick"
-msgstr "Весь витамин С во вселенной не сможет сохранить этого Дупликанта от простуды"
+msgstr "Весь витамин С во вселенной не сможет уберечь этого Дупликанта от простуды"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
@@ -17175,7 +17175,7 @@ msgstr "ВЫБЕРИТЕ ЭКИПАЖ ЧТОБЫ НАЧАТЬ"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
-msgstr "Перемешать"
+msgstr "Заменить"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME"
@@ -17185,7 +17185,7 @@ msgstr "Случайное имя колонии"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Shuffle for a different Duplicant"
-msgstr "Перемешать на другого Дупликанта"
+msgstr "Заменить на другого Дупликанта"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
