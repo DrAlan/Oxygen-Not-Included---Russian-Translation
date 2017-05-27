@@ -1,7 +1,6 @@
-msgid ""
-msgstr ""
 "Application: Oxygen Not Included"
 "POT Version: 2.0"
+"Language: ru"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
