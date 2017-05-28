@@ -2650,7 +2650,7 @@ msgstr "Авто шлюз"
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC"
 msgid "For when you feel the world pressing down on you. Or the Pascals."
-msgstr "Для случаев когда ты чуствуешь как мир давит на тебя. Или Паскали."
+msgstr "Для случаев когда ты чуствуешь как мир давит на тебя. Ну может это Паскали."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT"
@@ -4560,7 +4560,7 @@ msgstr "Толщина теплоизоляции"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
 msgid "Insulation Thickness determines how quickly a Duplicant retains or loses body <style=\"heat\">Heat</style> in any given area.\n\nIt is the sum of a Duplicant's equipment and their natural Insulation values."
-msgstr "Толщина теплоизоляции определяет как быстро Дупликант получает или теряет <style=\"heat\">Тепло</style> тела в любой окружающей среде.\n\nОна определяется как сумма окружения Дупликанта и его естественных Теплоизоляционных свойств."
+msgstr "Толщина теплоизоляции определяет как быстро Дупликант получает или теряет <style=\"heat\">Тепло</style> тела в любой окружающей среде.\n\nОна определяется как сумма снаряжения Дупликанта и его естественных Теплоизоляционных свойств."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
@@ -7740,12 +7740,12 @@ msgstr "Выведен из строя"
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants need to be rescued before they kick the bucket\n----------\nDuplicants must have an assigned Medical Cot or Rejuvenator to be rescued"
-msgstr "Этих Дупликантов нужно вылечить, иначе они могут умереть\n----------\nДупликанты должны быть назначены на Медкровать или Омолаживатель, чтобы быть спасёнными"
+msgstr "Этих Дупликантов нужно вылечить, иначе они могут умереть\n----------\nДупликанты должны быть назначены на Медкровать или Омолаживатель, чтобы быть спасенными"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant is near death! They need to be rescued quickly\n----------\nDuplicants must have an assigned Medical Cot or Rejuvenator to be rescued"
-msgstr "Этот Дупликант близок к гибели! Требуется срочное спасение\n----------\nДупликанты должны быть назначены в Медкровать или в Омолаживатель, чтобы быть спасёнными"
+msgstr "Этот Дупликант близок к гибели! Требуется срочное спасение\n----------\nДупликанты должны быть назначены в Медкровать или в Омолаживатель, чтобы быть спасенными"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
@@ -9405,7 +9405,7 @@ msgstr "Гелий"
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr "(H) Водород это наиболее распространенный и легкий <style=\"gas\">Газ</style> во вселенной."
+msgstr "(H) Водород это наиболее распространенный и легкий элемент во вселенной в <style=\"gas\">Газообразном</style> состоянии."
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
@@ -11475,7 +11475,7 @@ msgstr "Следующие фабрикаторы не имеют задач в 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "Duplicants are great at doing chores and can fetch water without direct orders.\n\nIf a building requires <style=\"liquid\">Water</style> or other liquids, Duplicants will seek out and collect it from the nearest pool and deliver it where it needs to go. A Duplicants' multitool can collect water from any pool within two tiles' reach."
-msgstr "Дупликанты отлично справляются с работой и могут приносить воду без прямых заказов.\n\nЕсли постройка нуждается в <style=\"liquid\">Воде</style> или другой жидкости - Дупликант будет искать и собирать её из ближайших резервуаров и достовлять её туда, где она нужна. Мультиинструмент Дупликанта может собирать воду из резервуаров в радиусе двух квадратов."
+msgstr "Дупликанты отлично справляются с работой и могут приносить воду без прямых заказов.\n\nЕсли постройка нуждается в <style=\"liquid\">Воде</style> или другой жидкости - Дупликант будет искать и собирать ее из ближайших резервуаров и достовлять ее туда, где она нужна. Мультиинструмент Дупликанта может собирать воду из резервуаров в радиусе двух квадратов."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
