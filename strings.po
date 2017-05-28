@@ -1775,7 +1775,7 @@ msgstr "Делает астероидную еду чуть более сьед�
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
 msgid "Cooks improved <style=\"food\">Food</style> recipes using multiple ingredients.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Повора улучшили рецепты <style=\"food\">Еды</style> используя несколько ингридиентов.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgstr "Повара улучшили рецепты <style=\"food\">Еды</style> используя несколько ингридиентов.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
@@ -1930,7 +1930,7 @@ msgstr "Использует <style=\"liquid\">Загрязненную воду
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
 msgid "Fertilizer Maker"
-msgstr "Изготовитель удобрений"
+msgstr "Отделитель удобрений"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
@@ -2570,7 +2570,7 @@ msgstr "Конвертирует <style=\"misc\">Водоросли</style> в <
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "Algae Deoxydizer"
-msgstr "Раскислитель водорослей"
+msgstr "Выкислитель водорослей"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
@@ -3145,7 +3145,7 @@ msgstr "Логово волгусов"
 #. STRINGS.CREATURES.SPECIES.HATCH.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.DESC"
 msgid "A nocturnal scavenger that will consume anything within reach that fits into its large mouth.\n\nThe waste excretions of a Hatch can be used as <style=\"solid\">Fuel</style>.\n\nDigging up Buried Objects may release a Hatch."
-msgstr "Ночной падальщик который пожирает что угодно, оказавшееся в зоне досягаемости его большого рта.\n\nПродукты жизнедеительности Норника могут быть использованы в качестве <style=\"solid\">Топлива</style>.\n\Раскопка заваленных объектов может спровоцировать появление норника."
+msgstr "Ночной падальщик который пожирает что угодно, оказавшееся в зоне досягаемости его большого рта.\n\nПродукты жизнедеительности Норника могут быть использованы в качестве <style=\"solid\">Топлива</style>.\n\nРаскопка заваленных объектов может спровоцировать появление норника."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.NAME"
@@ -4485,7 +4485,7 @@ msgstr "Температура перегрева"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant's highest attribute is {0}\n----------\nDuplicants develop higher expectations as their profession level increases"
-msgstr "{0} Это то что Дупликант делает лучше всего\n----------\nУ Дупликанта появляются более высокие ожидания по мере роста их профессианального уровня."
+msgstr "{0} это то в чем Дупликант хорош\n----------\nУ Дупликанта появляются более высокие ожидания по мере роста их профессианального уровня."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
@@ -5530,7 +5530,7 @@ msgstr "Голодный худжник"
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC"
 msgid "This Duplicant seems pretty average overall"
-msgstr "Этот дубликат кажется довольно средним"
+msgstr "Этот дубликат кажется довольно обычным"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME"
@@ -5960,7 +5960,7 @@ msgstr "Грязные руки"
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
 msgid "This Duplicant needs to wash their hands"
-msgstr "Этот дупликант хочет <style=\"hygiene\">Помыть</style> его руки"
+msgstr "Этот Дупликант хочет <style=\"hygiene\">Помыть</style> свои руки"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
@@ -6055,7 +6055,7 @@ msgstr "Горячо"
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP"
 msgid "This Duplicant is uncomfortably warm"
-msgstr "Этому дупликанту некомфортно в такой жаре"
+msgstr "Этому Дупликанту некомфортно в такой жаре"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
@@ -6645,7 +6645,7 @@ msgstr "Качество еды"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP"
 msgid "Food Quality Expectation is the minimum quality of <style=\"food\">Food</style> a Duplicant can tolerate eating.\n\nThis Duplicant requires {0} or higher food, and will become <style=\"stress\">Stressed</style> if to forced to eat lower quality foods."
-msgstr "Ожидаемое качество еды это минимальное качество <style=\"food\">Еды</style> которое Дупликант согласен терпеть.\n\nЭтот Дупликант нуждается в {0} или более высокого качества пищи и будет получать <style=\"stress\">Stressed</style> если ему придется есть более низкокачественную пищу."
+msgstr "Ожидаемое качество еды это минимальное качество <style=\"food\">Еды</style> которое Дупликант согласен терпеть.\n\nЭтот Дупликант нуждается в {0} или более высоком качестве пищи и будет получать <style=\"stress\">Stressed</style> если ему придется есть более низкокачественную пищу."
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY"
@@ -8665,7 +8665,7 @@ msgstr "Этот Дупликант неспособен визуализиро�
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME"
 msgid "Dimensionally Inept"
-msgstr "Гений геометрии"
+msgstr "Гуманитарий"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC"
@@ -8690,7 +8690,7 @@ msgstr "Не может копать"
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the solar system"
-msgstr "Этот Дупликант явно не яркая звездочка на в солнечной системе"
+msgstr "Этот Дупликант явно не самая яркая звезда в солнечной системе"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
@@ -8805,7 +8805,7 @@ msgstr "Лопаторукий"
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid "This Duplicant sucks up way more than their fair share of <style=\"oxygen\">Oxygen</style>"
-msgstr "Этот Дупликант сосет много <style=\"oxygen\">кислорода</style> по сравнению с товарищами"
+msgstr "Этот Дупликант потребляет на много больше <style=\"oxygen\">кислорода</style> по сравнению с товарищами"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
@@ -8815,7 +8815,7 @@ msgstr "Дышит ртом"
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
-msgstr "Это Дупликант умеет, может, практикует засыпать где угодно и когда угодно"
+msgstr "Этот Дупликант может и заснет где угодно и когда угодно"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
@@ -13420,12 +13420,12 @@ msgstr ""
 #. STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL"
 msgid "Tunnel"
-msgstr ""
+msgstr "Тунель"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA"
 msgid "Utopia"
-msgstr ""
+msgstr "Утопия"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL"
@@ -14380,7 +14380,7 @@ msgstr "Готовьте более вкусную <style=\"food\">Пищу</sty
 #. STRINGS.RESEARCH.FINEDINING.NAME
 msgctxt "STRINGS.RESEARCH.FINEDINING.NAME"
 msgid "Fine Dining"
-msgstr "Улучшенное питание"
+msgstr "Изысканная кухня"
 
 #. STRINGS.RESEARCH.GASPIPING.DESC
 msgctxt "STRINGS.RESEARCH.GASPIPING.DESC"
@@ -15210,7 +15210,7 @@ msgstr "ОК"
 #. STRINGS.UI.CONSUMABLES
 msgctxt "STRINGS.UI.CONSUMABLES"
 msgid "CONSUMABLES"
-msgstr "ПОТРЕБЛЯЕМОЕ"
+msgstr "ЕДА"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE"
@@ -15270,7 +15270,7 @@ msgstr "Стресс"
 #. STRINGS.UI.CONSUMABLESSCREEN.TITLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TITLE"
 msgid "CONSUMABLES"
-msgstr "ПОТРЕБЛЯЕМОЕ"
+msgstr "ЕДА"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL"
@@ -20234,7 +20234,7 @@ msgstr "Сытость"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY"
 msgid "Eaten Today"
-msgstr "Съел сегодня"
+msgstr "Съел"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
