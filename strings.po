@@ -120,7 +120,7 @@ msgstr "Постройка выключена"
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "Press <color=#F44A47>(ENTER)</color> to resume use"
-msgstr "Нажмите <color=#F44A47>(ENTER)</color> возобновить использование"
+msgstr "Нажмите <color=#F44A47>(ENTER)</color> что бы возобновить использование"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
@@ -4209,8 +4209,8 @@ msgstr "Задыхается"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
-msgid "This plant has stopped growing because one of its basic requirements has not been met\n\nUnmet Condition: {0}"
-msgstr "Это растение перестало расти потому что одно из основных требований не соблюдается\n\nНе соблюденные условия: {0}"
+msgid "This plant has stopped growing because one of its basic requirements has not been met"
+msgstr "Это растение перестало расти потому что одно из основных требований не соблюдается"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
@@ -7180,7 +7180,7 @@ msgstr "Мочевой пузырь"
 #. STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP"
 msgid "Bladder\n----------\nDuplicants make \"messes\" if no toilets are available at one hundred percent bladder fullness"
-msgstr "Мочевой пузырь\n----------\nДупликант описается при 100% значении мочевого пузыря, если не найдет туалета поблизости"
+msgstr "Мочевой пузырь\n----------\nДупликант описается если мочевой пузырь полностью заполнится и туалета не будет поблизости"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.NAME"
@@ -7200,7 +7200,7 @@ msgstr "Калории"
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
 msgid "Calories\n----------\nThis Duplicant can burn {0} before starving"
-msgstr "Калории\n----------\nЭтот Дупликант может сжеть еще {0} перед тем как начать голодать"
+msgstr "Калории\n----------\nЭтот Дупликант может потратить еще {0} калорий перед тем как начнет голодать"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
@@ -7210,7 +7210,7 @@ msgstr "Декор"
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nDuplicants become stressed in areas with decor lower than their expectations\nOpen the Decor Overlay <color=#F44A47>[F8]</color> to view current decor values"
-msgstr "Декор\n----------\nДупликанты будет получать стресс находясь в месиах, имеющих значение декора ниже чем их ожиданий\nОткройте просмотр Декора <color=#F44A47>[F8]</color> что бы увидеть текущее значения декора"
+msgstr "Декор\n----------\nДупликанты будет получать стресс находясь в местах, имеющих значение декора ниже чем их ожидания\nОткройте просмотр Декора <color=#F44A47>[F8]</color> что бы увидеть текущее значения декора"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
